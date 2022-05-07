@@ -1,0 +1,16 @@
+{
+    "env": {
+        "token": "xxxxxxxxxxxxxxxxxxx",
+        "prefix": "!",
+        "DATABASE": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "owners": [
+            "xxxxxxxxxxxxxxxx"
+        ]
+    },
+    "client": {
+        "EveryoneID": "everyone role id",
+        "category": "xxxxxxxxxxxxxxxxxxxxxxx",
+        "ticketChannel": "xxxxxxxxxxxxxxxxxxxxxxx",
+        "transcriptID": "channel id"
+    }
+}
