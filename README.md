@@ -19,6 +19,7 @@
 
 <br /> 
 
+![Ex-Ticket-1](https://user-images.githubusercontent.com/73163422/167252120-2e448778-f7ba-40f3-b42c-593c836d8e35.png)
 
 
 
@@ -27,7 +28,7 @@
 
 
 
-![Ex-Ticket-1](https://user-images.githubusercontent.com/73163422/167252120-2e448778-f7ba-40f3-b42c-593c836d8e35.png)
+
 
 
 
